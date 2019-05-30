@@ -1,0 +1,10 @@
+{
+    "locks" : [
+        {
+            "name" : "default",
+            "hello_time" : 5,
+            "dead_time" : 15
+            
+        }
+    ]
+}
